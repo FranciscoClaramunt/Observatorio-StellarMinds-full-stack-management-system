@@ -1,4 +1,4 @@
-# Observatorio-StellarMinds-full-stack-management-system
+# Full-Stack Web System with Clean Architecture, REST API and Generative AI Integration - .NET 10
 Academic project developed individually for the 'Web Development assisted by AI' course at Universidad ORT Uruguay (2026).  A full-stack astronomical observatory management system built with Clean Architecture and Domain-Driven Design, integrating Google Gemini AI for equipment suitability evaluation
 
 ## Tech Stack
